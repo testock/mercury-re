@@ -211,7 +211,7 @@ mercury-re/
 
 ## Author
 
-William Stock (ocelot_laments@icloud.com)
+William Stock (ocelot_laments7j@icloud.com)
 
 ## License
 
