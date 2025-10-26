@@ -10,6 +10,11 @@ Mercury/
 *.so
 test_regex
 
+# Coverage and profiling files
+*.coverage-labels
+*.coverage-procs
+*.trace_counts
+
 # macOS
 .DS_Store
 
