@@ -1,0 +1,21 @@
+# Mercury build directories
+Mercury/
+*.err
+*.init
+*.module_dep
+
+# Libraries and executables
+*.a
+*.dylib
+*.so
+test_regex
+
+# macOS
+.DS_Store
+
+# Editor files
+*~
+*.swp
+
+# Module files
+Mercury.modules

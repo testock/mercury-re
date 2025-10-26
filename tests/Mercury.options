@@ -1,0 +1,3 @@
+include ../Make.options
+
+MCFLAGS = --use-grade-subdirs --warn-unused-imports --cflags "`pkg-config --cflags libpcre2-8`" --ld-flags "`pkg-config --libs libpcre2-8`"
